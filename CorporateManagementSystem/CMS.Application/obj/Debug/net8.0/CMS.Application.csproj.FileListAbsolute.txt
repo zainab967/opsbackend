@@ -1,0 +1,17 @@
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.Application\bin\Debug\net8.0\CMS.Application.deps.json
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.Application\bin\Debug\net8.0\CMS.Application.dll
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.Application\bin\Debug\net8.0\CMS.Application.pdb
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.Application\bin\Debug\net8.0\CMS.Core.dll
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.Application\bin\Debug\net8.0\CMS.Core.pdb
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.Application\obj\Debug\net8.0\CMS.Application.csproj.AssemblyReference.cache
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.Application\obj\Debug\net8.0\CMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.Application\obj\Debug\net8.0\CMS.Application.AssemblyInfoInputs.cache
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.Application\obj\Debug\net8.0\CMS.Application.AssemblyInfo.cs
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.Application\obj\Debug\net8.0\CMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.Application\obj\Debug\net8.0\CMS.Appl.44E07803.Up2Date
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.Application\obj\Debug\net8.0\CMS.Application.dll
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.Application\obj\Debug\net8.0\refint\CMS.Application.dll
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.Application\obj\Debug\net8.0\CMS.Application.pdb
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.Application\obj\Debug\net8.0\ref\CMS.Application.dll
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.Application\bin\Debug\net8.0\CMS.Infrastructure.dll
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.Application\bin\Debug\net8.0\CMS.Infrastructure.pdb
