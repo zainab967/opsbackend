@@ -409,7 +409,7 @@ namespace CMS.Infrastructure.Migrations
                 table: "Assets",
                 column: "SerialNumber",
                 unique: true,
-                filter: "[SerialNumber] IS NOT NULL");
+                filter: "\"SerialNumber\" IS NOT NULL");
 
             migrationBuilder.CreateIndex(
                 name: "IX_ComplaintSuggestions_AssignedTo",

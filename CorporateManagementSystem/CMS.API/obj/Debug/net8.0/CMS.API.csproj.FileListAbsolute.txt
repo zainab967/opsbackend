@@ -1,11 +1,3 @@
-C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\CMS.API.csproj.AssemblyReference.cache
-C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\CMS.API.AssemblyInfoInputs.cache
-C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\CMS.API.AssemblyInfo.cs
-C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\CMS.API.csproj.CoreCompileInputs.cache
-C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\bin\Debug\net8.0\appsettings.json
 C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\bin\Debug\net8.0\CMS.API.staticwebassets.endpoints.json
 C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\bin\Debug\net8.0\CMS.API.exe
@@ -141,6 +133,15 @@ C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateM
 C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\bin\Debug\net8.0\CMS.Core.pdb
 C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\bin\Debug\net8.0\CMS.Application.pdb
 C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\bin\Debug\net8.0\CMS.Infrastructure.pdb
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\CMS.API.csproj.AssemblyReference.cache
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\CMS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\CMS.API.AssemblyInfoInputs.cache
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\CMS.API.AssemblyInfo.cs
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\CMS.API.csproj.CoreCompileInputs.cache
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\CMS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\CMS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\CMS.API.sourcelink.json
 C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\MuBeeN\Downloads\CorporateManagementSystem_Backend_With_Auth\CorporateManagementSystem\CMS.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
