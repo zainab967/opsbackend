@@ -9,6 +9,8 @@ using Microsoft.EntityFrameworkCore;
 using System;    
 
 Environment.SetEnvironmentVariable("ASPNETCORE_ENVIRONMENT", "Development");
+// Load environment variables from .env file
+CMS.API.EnvLoader.LoadEnv();
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container
